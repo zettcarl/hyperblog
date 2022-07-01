@@ -8,10 +8,8 @@ tambien trato de apreder practicar mecanografia, la verdad es complicado
 
 al parecer trndre que editar todo, ni modo,  antes de eso vere si los cambios se realizan 
 ayayayayayaya turum turum, que buena rola
-<<<<<<< HEAD
+
 aun que no pueda hacer html junto con css, lo haré por acá
-=======
 
+se supone que acá es el footr, no more changes.
 
-se supone que acá es el footr, no more changes
->>>>>>> footer
