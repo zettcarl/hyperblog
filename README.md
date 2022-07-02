@@ -4,3 +4,6 @@ no esperen mucho de acá, ya que es uno de los primeros cursos, aun así si espe
 **saludos!**
 * creado por mi
 * y mi calzón
+* y mi calzón
+* incluye una rola!
+* disponible para todas las edades
